@@ -26,4 +26,3 @@ First-year **Computer Engineering** student at Sivas Cumhuriyet University. Focu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ege-guder/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:egeguder.478@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-kyrix__x-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/989127794002886768)
