@@ -1,26 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kasuto+%F0%9F%91%8B;Computer+Engineering+Student;Browser+Extensions+%26+Themes;Future+Game+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kasuto+%F0%9F%91%8B;Computer+Engineering+Student;Software+%26+Game+Development;Future+Game+Dev" alt="Typing SVG" />
 
 </div>
 
 ### About Me
 
-Computer Engineering student at Sivas Cumhuriyet University. I build browser extensions and themes under **[Kurogrid](https://github.com/Kurogrid)**, and I'm working toward making my first indie game.
+Computer Engineering student at Sivas Cumhuriyet University. Focused on building a strong foundation in algorithms, software engineering, and game development.
 
-- 🛠️ Currently building **NEONDECK**, a cyberpunk HUD new tab extension
 - 🌱 Focusing on **Data Structures & Algorithms** and **OOP**
 - 🎮 Working toward my first indie game and a personal web portfolio
 - 🗡️ Outside of coding: Souls-like & indie games, alternative rock
-
-### Projects
-
-| Project | Description |
-|---|---|
-| **[NEONDECK](https://github.com/Kurogrid/neondeck-extension)** | A cyberpunk HUD new tab for Firefox and Chrome: big clock, multi-engine search, netlinks, five themes and a widget panel. Private by design: no account, no tracking. |
-| **[Kurogrid](https://github.com/Kurogrid)** | My organization for browser extensions and themes, with English and Turkish interfaces. |
-
-🔗 [Add to Firefox](https://addons.mozilla.org/firefox/addon/neondeck/) · [NEONDECK website](https://kurogrid.github.io/neondeck/) · [Source](https://github.com/Kurogrid/neondeck-extension)
 
 ### Tech Stack
 
