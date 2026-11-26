@@ -17,10 +17,10 @@ Computer Engineering student at Sivas Cumhuriyet University. I build browser ext
 
 | Project | Description |
 |---|---|
-| **[NEONDECK](https://github.com/Kurogrid/neondeck)** | A cyberpunk HUD new tab for Firefox and Chrome: big clock, multi-engine search, netlinks, five themes and a widget panel. Private by design: no account, no tracking. |
+| **[NEONDECK](https://github.com/Kurogrid/neondeck-extension)** | A cyberpunk HUD new tab for Firefox and Chrome: big clock, multi-engine search, netlinks, five themes and a widget panel. Private by design: no account, no tracking. |
 | **[Kurogrid](https://github.com/Kurogrid)** | My organization for browser extensions and themes, with English and Turkish interfaces. |
 
-🔗 [NEONDECK website](https://kurogrid.github.io/neondeck)
+🔗 [Add to Firefox](https://addons.mozilla.org/firefox/addon/neondeck/) · [NEONDECK website](https://kurogrid.github.io/neondeck/) · [Source](https://github.com/Kurogrid/neondeck-extension)
 
 ### Tech Stack
 
